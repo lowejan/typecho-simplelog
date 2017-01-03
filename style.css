@@ -16,19 +16,19 @@ Main
 body {
     background-color: #FFF;
     color: #444;
-    font-family: Georgia,"Xin Gothic","PingFang TC","Hiragino Sans GB","Droid Sans Fallback","Microsoft YaHei",sans-serif;
+    font-family: Georgia, "Microsoft YaHei", sans-serif;
     font-size: 1.2em;
 }
 
 a {
-    color: #111;
+    color: #3354AA;
     word-wrap: break-word;
     text-decoration: none;
     transition: all .25s ease-in;
 }
 
 a:hover, a:active {
-    color: #555;
+    color: #444;
 }
 
 pre, code {
