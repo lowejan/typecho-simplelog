@@ -5,7 +5,7 @@
  * @package SimpleLog
  * @author lubannong
  * @version 0.1.0
- * @link https://lubannong.com
+ * @link https://lubannong.com/typecho-theme-simplelog.html
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

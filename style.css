@@ -2,7 +2,7 @@
 
 /* 2016-12-30
 Theme Name: SimpleLog
-Theme URI: https://lubannong.com
+Theme URI: https://lubannong.com/typecho-theme-simplelog.html
 Description: 简洁的个人博客模板
 Version: 0.1.0
 Author: 陆半农
@@ -16,7 +16,7 @@ Main
 body {
     background-color: #FFF;
     color: #444;
-    font-family: Georgia, "Microsoft YaHei", sans-serif;
+    font-family: Consolas, Georgia, "Microsoft YaHei", "PingFang TC", sans-serif;
     font-size: 1.2em;
 }
 
@@ -260,6 +260,7 @@ Layout
     padding-left: 20px;
     line-height: 2;
     color: #555;
+    font-size: .9em;
 }
 
 .post {
@@ -560,7 +561,7 @@ Layout
 .widget-list {
     list-style: square;
     padding-left: 15px;
-    font-size: .75em;
+    font-size: .8em;
     color: #666;
 }
 
