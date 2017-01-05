@@ -26,10 +26,12 @@
 
 ![screenshot](https://github.com/congzh/typecho-theme-simplelog/raw/master/screenshot.png)
 
-或至我的[博客](https://lubannong.com)参观。
+或至我的[博客](https://luweiqiang.com/blog)参观。
 
 ## 其他
 
-Copyright: GPL v3；
+Copyright 2016 @lubannong;
+
+License: GPL v3
 
 本主题目的为自己写博客，功能仅够用，如有喜欢并使用，请自行添加所需功能，本人不负责也无能力升级主题。
