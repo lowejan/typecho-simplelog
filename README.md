@@ -26,7 +26,7 @@
 
 ![screenshot](https://github.com/congzh/typecho-theme-simplelog/raw/master/screenshot.png)
 
-或至我的[博客](https://lubannong)参观。
+或至我的[博客](https://lubannong.com)参观。
 
 ## 其他
 
